@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "json": "^11.0.0",
+    "JSON": "^1.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.4",
+    "next": "^12.1.6",
+    "node.js": "*",
+    "react": "^18.1.0"
+  },
+  "name": "bd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
